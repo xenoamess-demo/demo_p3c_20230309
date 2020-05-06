@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demop3c" />
+        <module name="demo_p3c_20200506" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demop3c" target="8" />
+      <module name="demo_p3c_20200506" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
